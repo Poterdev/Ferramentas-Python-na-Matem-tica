@@ -32,3 +32,8 @@ Cada script está documentado com instruções sobre como utilizá-lo. Basta seg
 
 Sinta-se à vontade para contribuir com este projeto. Envie um pull request com suas melhorias e correções.
 
+Para me acompanhar em outras redes ou saber mais sobre o meu trabalho, você pode me encontrar em:
+- GitHub: [Poterdev](https://github.com/Poterdev)
+- LinkedIn: [Erickson Santos](https://www.linkedin.com/in/erickson-santos-36a607318)
+- Medium: [Erickson Santos](https://medium.com/@erickson1.dev)
+
